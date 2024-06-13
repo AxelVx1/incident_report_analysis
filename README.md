@@ -3,7 +3,7 @@
 [Incident Report Analysis](#Response)
 
 # incident_report_analysis_project
-Analyzing a situation and creating a incident report using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF).
+Analyzing a situation and creating an incident report using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF).
 
 # Scenario:
 
