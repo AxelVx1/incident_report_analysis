@@ -3,7 +3,7 @@ Analyzing a situation and creating a incident report using the National Institut
 
 
 # Incident Report Analysis
-
+|          |          |
 |----------|----------|
 | Row 1    | Data 1   |
 | Row 2    | Data 2   |
