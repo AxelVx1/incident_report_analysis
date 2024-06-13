@@ -1,6 +1,6 @@
 [Scenario](#Scenario)
 
-[Incident Report Analysis](#IncidentReportAnalysis)
+[Incident Report Analysis](#Incident_Report_Analysis)
 
 # incident_report_analysis
 Analyzing a situation and creating a incident report using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF).
