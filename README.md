@@ -1,8 +1,8 @@
 [Scenario](#Scenario)
 
-[Incident Report Analysis](#Incident_Report_Analysis)
+[Incident Report Analysis](#Response)
 
-# incident_report_analysis
+# incident_report_analysis_project
 Analyzing a situation and creating a incident report using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF).
 
 # Scenario:
@@ -25,7 +25,7 @@ An IDS/IPS system to filter out some ICMP traffic based on suspicious characteri
 
 As a cybersecurity analyst, you are tasked with using this security event to create a plan to improve your company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). You will use the CSF to help you navigate through the different steps of analyzing this cybersecurity event and integrate your analysis into a general security strategy.
 
-# Incident Report Analysis:
+# Response:
 
 |    NIST CSF Framework      |          |
 |----------------------------|----------|
