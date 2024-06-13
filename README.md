@@ -1,7 +1,10 @@
+[Scenario](#Scenario)
+[Incident Report Analysis](#IncidentReportAnalysis)
+
 # incident_report_analysis
 Analyzing a situation and creating a incident report using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF).
 
-# Scenario
+# Scenario:
 
 You are a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. Your organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
 
@@ -21,7 +24,8 @@ An IDS/IPS system to filter out some ICMP traffic based on suspicious characteri
 
 As a cybersecurity analyst, you are tasked with using this security event to create a plan to improve your company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). You will use the CSF to help you navigate through the different steps of analyzing this cybersecurity event and integrate your analysis into a general security strategy.
 
-# Incident Report Analysis
+# Incident Report Analysis:
+
 |    NIST CSF Framework      |          |
 |----------------------------|----------|
 | Summary  | The organization experienced a security incident today when network services suddenly stopped responding. The event caused normal internal network traffic to come to a stop since no network resources could be accessed. The security team found it to be caused by a type of distributed denial of service attack (DDoS). This type of attack is called an ICMP flood attack which is evident by the flood of ICMP packets found by the team. The incident management team responded by blocking any more ICMP packets and stopping all non-critical network services to restore the critical network services.   |
